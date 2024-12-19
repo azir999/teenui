@@ -102,7 +102,7 @@
     </section>
 
     <div class="container mt-5">
-        <h3 class="text-center mb-4" id="lokasi" style="font-family: 'Pacifico', cursive;">Lokasi Kami</h3>
+        <h3 class="text-center mb-4" id="lokasi" style="font-family: 'Pacifico', cursive;">Lokasi📍</h3>
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card shadow-lg border-0">
